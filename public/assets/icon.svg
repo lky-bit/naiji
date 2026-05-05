@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" role="img" aria-label="奶迹">
+  <defs>
+    <linearGradient id="bg" x1="18" y1="12" x2="126" y2="132" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64c7bb"/>
+      <stop offset="1" stop-color="#238678"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="96" y1="94" x2="128" y2="122" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd98a"/>
+      <stop offset="1" stop-color="#f2a65a"/>
+    </linearGradient>
+  </defs>
+  <rect width="144" height="144" rx="32" fill="url(#bg)"/>
+  <circle cx="67" cy="54" r="28" fill="#fff7e8"/>
+  <path d="M43 76c12 12 37 12 50 0l15 31c-24 14-56 14-80 0l15-31z" fill="#fffdf8"/>
+  <path d="M51 52c4-4 10-4 14 0" fill="none" stroke="#27695f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M74 52c4-4 10-4 14 0" fill="none" stroke="#27695f" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="58" cy="63" r="4" fill="#27695f"/>
+  <path d="M73 64c5 5 12 5 17 0" fill="none" stroke="#27695f" stroke-width="5" stroke-linecap="round"/>
+  <g transform="translate(88 70) rotate(12)">
+    <rect x="0" y="10" width="24" height="48" rx="8" fill="#fff7e8"/>
+    <rect x="1" y="9" width="22" height="12" rx="5" fill="#f2a65a"/>
+    <path d="M6 5c2-7 10-7 12 0v6H6V5z" fill="#ffd98a"/>
+    <path d="M7 31h10M7 40h10M7 49h10" stroke="#2f9285" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <path d="M31 98c9-19 33-18 43-1 8 15-5 31-22 28-17-3-27-13-21-27z" fill="#fffdf8"/>
+  <path d="M45 103c5-10 19-9 24 0 5 9-3 19-14 17-10-2-14-9-10-17z" fill="#2f9285"/>
+  <circle cx="39" cy="93" r="5" fill="#2f9285"/>
+  <circle cx="50" cy="88" r="5" fill="#2f9285"/>
+  <circle cx="62" cy="89" r="5" fill="#2f9285"/>
+  <path d="M104 39c6-10 21-5 20 7 9-4 18 8 11 16l-24 24-24-24c-7-8 2-20 11-16-1-6 2-10 6-7z" fill="url(#accent)"/>
+</svg>
