@@ -1,7 +1,10 @@
-const CACHE_NAME = "naiji-pwa-v2";
+const CACHE_NAME = "naiji-pwa-v3";
 const ASSETS = [
   "./",
   "./index.html",
+  "./app.css",
+  "./app.js",
+  "./app-config.js",
   "./manifest.webmanifest",
   "./assets/icon.svg"
 ];
